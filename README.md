@@ -3,7 +3,7 @@ A Chrome extension that lets you highlight any text, right-click, and get an AI-
 
 ## Features
 - Right-click Solve with AI on highlighted text
-- Sends the selected text to an AI model (OpenAI/OpenRouter)
+- Sends the selected text to an AI model (OpenAI)
 - Injects the answer directly into the webpage
 - Simple, clean dark-themed answer box
 
